@@ -72,4 +72,4 @@ project_root/
 
 | Output                    | Emulator Output           |
 | ------------------------- | ------------------------- |
-| <img src="" width="700"/> | <img src="" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/5e8b8000-c3ee-4e38-ad63-9035fd003099" width="700"/> | <img src="https://github.com/user-attachments/assets/1adc5aa5-c8f9-40fe-b450-71b8a2cce921" width="300"/> |
