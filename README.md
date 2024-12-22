@@ -38,8 +38,6 @@ This project, **Sprints Task 2**, is a Flutter application that demonstrates fun
    flutter run
    ```
 
-## Screenshots
-
 ### AppBar
 
 - Displays the title **"My First Project"** with a custom font and bold styling.
